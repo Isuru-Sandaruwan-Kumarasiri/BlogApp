@@ -35,8 +35,21 @@ a{
         max-width: 835px;
     }
 }
-@media screen  and (max-width:835pxpx){
+@media screen  and (max-width:911px){
     .wrapper{
         max-width: 700px;
+    }
+}
+
+@media screen  and (max-width:810px){
+    .wrapper{
+        max-width: 520px;
+        padding: 0 40px;
+    }
+}
+@media screen  and (max-width:580pxpx){
+    .wrapper{
+        max-width: 416px;
+        padding: 0 40px;
     }
 }
